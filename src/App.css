@@ -1,0 +1,18 @@
+.app-div-outer {
+  display: flex;
+  justify-content: center;
+  width: 100vw;
+  height: 100vh;
+  align-items: center;
+}
+
+body {
+  font-family: Roboto;
+  background-color: #12161f;
+}
+
+.roboto-thin {
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
